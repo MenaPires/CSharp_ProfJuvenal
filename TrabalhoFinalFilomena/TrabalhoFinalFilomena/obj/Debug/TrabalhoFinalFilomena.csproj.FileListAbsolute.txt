@@ -1,0 +1,12 @@
+C:\Users\fjfp_\source\repos\TrabalhoFinalFilomena\TrabalhoFinalFilomena\obj\Debug\TrabalhoFinalFilomena.csprojAssemblyReference.cache
+C:\Users\fjfp_\source\repos\TrabalhoFinalFilomena\TrabalhoFinalFilomena\obj\Debug\TrabalhoFinalFilomena.Properties.Resources.resources
+C:\Users\fjfp_\source\repos\TrabalhoFinalFilomena\TrabalhoFinalFilomena\obj\Debug\TrabalhoFinalFilomena.csproj.GenerateResource.cache
+C:\Users\fjfp_\source\repos\TrabalhoFinalFilomena\TrabalhoFinalFilomena\obj\Debug\TrabalhoFinalFilomena.csproj.CoreCompileInputs.cache
+C:\Users\fjfp_\source\repos\TrabalhoFinalFilomena\TrabalhoFinalFilomena\bin\Debug\TrabalhoFinalFilomena.exe.config
+C:\Users\fjfp_\source\repos\TrabalhoFinalFilomena\TrabalhoFinalFilomena\bin\Debug\TrabalhoFinalFilomena.exe
+C:\Users\fjfp_\source\repos\TrabalhoFinalFilomena\TrabalhoFinalFilomena\bin\Debug\TrabalhoFinalFilomena.pdb
+C:\Users\fjfp_\source\repos\TrabalhoFinalFilomena\TrabalhoFinalFilomena\obj\Debug\TrabalhoFinalFilomena.exe
+C:\Users\fjfp_\source\repos\TrabalhoFinalFilomena\TrabalhoFinalFilomena\obj\Debug\TrabalhoFinalFilomena.pdb
+C:\Users\fjfp_\source\repos\TrabalhoFinalFilomena\TrabalhoFinalFilomena\obj\Debug\TrabalhoFinalFilomena.Form1.resources
+C:\Users\fjfp_\source\repos\TrabalhoFinalFilomena\TrabalhoFinalFilomena\obj\Debug\TrabalhoFinalFilomena.FormEuromilhoes.resources
+C:\Users\fjfp_\source\repos\TrabalhoFinalFilomena\TrabalhoFinalFilomena\obj\Debug\TrabalhoFinalFilomena.FormTotoloto.resources
